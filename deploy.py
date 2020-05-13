@@ -135,6 +135,7 @@ do_package('3DsMaxSdk2016', '18.0', 'W:/Programs/Environments/env_3dmax/maxsdk_2
 do_package('3DsMaxSdk2017', '19.0', 'W:/Programs/Environments/env_3dmax/maxsdk_2017')
 do_package('3DsMaxSdk2018', '20.0', 'W:/Programs/Environments/env_3dmax/maxsdk_2018')
 do_package('3DsMaxSdk2019', '21.0', 'W:/Programs/Environments/env_3dmax/maxsdk_2019')
+do_package('3DsMaxSdk2020', '22.0', 'W:/Programs/Environments/env_3dmax/maxsdk_2020')
 
 # ----------------------------------------------------------------------------------#
 # //////////////////////////////////////////////////////////////////////////////////#
