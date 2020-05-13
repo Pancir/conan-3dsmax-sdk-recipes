@@ -45,8 +45,8 @@ import sys
 
 # Visual studio is needed for checking created packages.
 # You have to specify Visual Studio version you are using.
-# 15 - VS2017, 14 - VS2015
-visual_studio_version = 15
+# 14 - VS2015, 15 - VS2017, 16 - VS2019
+visual_studio_version = 16
 
 # ----------------------------------------------------------------------------------#
 # //////////////////////////////////////////////////////////////////////////////////#
@@ -135,6 +135,7 @@ do_package('3DsMaxSdk2016', '18.0', 'W:/Programs/Environments/env_3dmax/maxsdk_2
 do_package('3DsMaxSdk2017', '19.0', 'W:/Programs/Environments/env_3dmax/maxsdk_2017')
 do_package('3DsMaxSdk2018', '20.0', 'W:/Programs/Environments/env_3dmax/maxsdk_2018')
 do_package('3DsMaxSdk2019', '21.0', 'W:/Programs/Environments/env_3dmax/maxsdk_2019')
+do_package('3DsMaxSdk2020', '22.0', 'W:/Programs/Environments/env_3dmax/maxsdk_2020')
 
 # ----------------------------------------------------------------------------------#
 # //////////////////////////////////////////////////////////////////////////////////#
