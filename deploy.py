@@ -45,8 +45,8 @@ import sys
 
 # Visual studio is needed for checking created packages.
 # You have to specify Visual Studio version you are using.
-# 15 - VS2017, 14 - VS2015
-visual_studio_version = 15
+# 14 - VS2015, 15 - VS2017, 16 - VS2019
+visual_studio_version = 16
 
 # ----------------------------------------------------------------------------------#
 # //////////////////////////////////////////////////////////////////////////////////#
